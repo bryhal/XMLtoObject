@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<Request type="Order" ID="330121" Date="1-15-2014 4:12:50 PM"> 
+  <Order Version="1.0" CartNumber="330121" Date="1-15-2014 4:12:50 PM">
+    <DeploymentMode>Production</DeploymentMode>
+    <SiteURL>https://sinalitedashboard.com/</SiteURL>
+    
+
+    <BillTo CostCenter="" CustomerPO="">
+      <Payment Method="credit card">
+        <Charges Currency="USD">
+          <Freight cost="0">0</Freight>
+          <Tax>15.26</Tax>
+          <Total>132.66</Total>
+        </Charges>
+      </Payment>
+      <PostalAddress> 
+	    <CompanyName></CompanyName>
+        <Name>Online print SVC</Name> 
+        <Attn>Rochelle Ness</Attn> 
+        <Address>260 Spinnaker Way, Unit #2</Address> 
+        <Address></Address>
+        <Address></Address> 
+        <City>Concord</City> 
+        <StateProv>ON</StateProv> 
+        <PostalCode>L4K 4P9</PostalCode> 
+        <Country>Canada</Country> 
+	    <ContactPhone></ContactPhone>
+      </PostalAddress> 
+	  <BillingAddress> 
+        <Address>260 Spinnaker Way, Unit #2</Address> 
+        <Address></Address>
+        <Address></Address> 
+        <City>Concord</City> 
+        <StateProv>ON</StateProv> 
+        <PostalCode>L4K 4P9</PostalCode> 
+        <Country>Canada</Country> 
+      </BillingAddress> 
+    </BillTo>
+	<OrderedBy>
+		<FirstName>Rochelle</FirstName>
+		<LastName>Ness</LastName>
+		<Phone>905-886-2797</Phone>
+		<Email>rochelle@mgbmc.com</Email>
+		<ExtEmpID></ExtEmpID>
+		<AddEmpInfo></AddEmpInfo>
+		<CostCentreName>onlineprintsvc_cc</CostCentreName>
+		<Username>jay@mgbmc.com</Username>
+        
+<Extrinsic Type="Company Name">MGB Marketing &amp; Communications Inc.</Extrinsic>
+	</OrderedBy>
+  </Order>
+
+    
+<Items>
+      <Item LineNumber="PM617450" Rush="No"  type="New" approved="NA">
+		<Supplier></Supplier>
+        <SupplierPartID></SupplierPartID>
+        <ManufacturerPartID>pcsl000</ManufacturerPartID>
+        <TemplateName>Postcards</TemplateName>
+        <Quantity>500</Quantity>
+        <UnitSize>1</UnitSize>   
+        <Image></Image>
+		<ImpositionImage></ImpositionImage> 
+		<FileUpload></FileUpload>
+		<FileUploadName></FileUploadName>
+		
+
+		<NexJobFileUpload filenumber="1">Files/UploadFiles/5907EnvelopeCoverENfinal.pdf</NexJobFileUpload>
+		<NexJobFileUploadConverted filenumber="1"></NexJobFileUploadConverted>
+		
+
+		<TypeSettingInfo></TypeSettingInfo>
+		<TemplateOtherInformation></TemplateOtherInformation>
+		<ApproverComments></ApproverComments>
+		<UserComments></UserComments>
+		<Project>
+			
+
+				
+
+		</Project>
+        
+
+        <Extrinsic Type="NameOnStationery"></Extrinsic>
+        
+<Extrinsic Type="Bundling">No bundling - FREE</Extrinsic>
+
+<Extrinsic Type="Product ID">pc85x11</Extrinsic>
+
+<Extrinsic Type="Product Type">2sided plus AQ 14pt</Extrinsic>
+
+<Extrinsic Type="Qty">500</Extrinsic>
+
+<Extrinsic Type="Size">8.5 x 11</Extrinsic>
+
+<Extrinsic Type="Turnaround">2-3 Business Days</Extrinsic>
+
+        <ShipTo> 
+          <Carrier>Toronto Customer pick-up </Carrier>
+          <Method></Method>
+		  <Weight>{Weight}</Weight>
+          <PostalAddress> 
+			<CompanyName></CompanyName>
+            <Name>Online print SVC</Name> 
+            <Attn>Rochelle Ness</Attn> 
+            <Address>260 Spinnaker Way, Unit #2</Address>
+            <Address></Address>
+            <Address></Address> 
+            <City>Concord</City> 
+            <StateProv>ON</StateProv> 
+            <PostalCode>L4K 4P9</PostalCode>
+            <Country>Canada</Country>
+			<ContactPhone></ContactPhone>
+          </PostalAddress> 
+        </ShipTo> 
+        <Charges Currency="USD">
+          <Item>89.27</Item>
+          <Tax>11.61</Tax>
+		  
+
+          <Total>100.88</Total>
+        </Charges>
+      </Item> 
+    
+
+
+      <Item LineNumber="PM617455" Rush="No"  type="New" approved="NA">
+		<Supplier></Supplier>
+        <SupplierPartID></SupplierPartID>
+        <ManufacturerPartID>pcsl000</ManufacturerPartID>
+        <TemplateName>Postcards</TemplateName>
+        <Quantity>100</Quantity>
+        <UnitSize>1</UnitSize>   
+        <Image></Image>
+		<ImpositionImage></ImpositionImage> 
+		<FileUpload></FileUpload>
+		<FileUploadName></FileUploadName>
+		
+
+		<NexJobFileUpload filenumber="2">Files/UploadFiles/5907EnvelopeCoverFRfinal.pdf</NexJobFileUpload>
+		<NexJobFileUploadConverted filenumber="2"></NexJobFileUploadConverted>
+		
+
+		<TypeSettingInfo></TypeSettingInfo>
+		<TemplateOtherInformation></TemplateOtherInformation>
+		<ApproverComments></ApproverComments>
+		<UserComments></UserComments>
+		<Project>
+			
+
+				
+
+		</Project>
+        
+
+        <Extrinsic Type="NameOnStationery"></Extrinsic>
+        
+<Extrinsic Type="Bundling">No bundling - FREE</Extrinsic>
+
+<Extrinsic Type="Product ID">pc85x11</Extrinsic>
+
+<Extrinsic Type="Product Type">2sided plus AQ 14pt</Extrinsic>
+
+<Extrinsic Type="Qty">100</Extrinsic>
+
+<Extrinsic Type="Size">8.5 x 11</Extrinsic>
+
+<Extrinsic Type="Turnaround">2-3 Business Days</Extrinsic>
+
+        <ShipTo> 
+          <Carrier>Toronto Customer pick-up </Carrier>
+          <Method></Method>
+		  <Weight>{Weight}</Weight>
+          <PostalAddress> 
+			<CompanyName></CompanyName>
+            <Name>Online print SVC</Name> 
+            <Attn>Rochelle Ness</Attn> 
+            <Address>260 Spinnaker Way, Unit #2</Address>
+            <Address></Address>
+            <Address></Address> 
+            <City>Concord</City> 
+            <StateProv>ON</StateProv> 
+            <PostalCode>L4K 4P9</PostalCode>
+            <Country>Canada</Country>
+			<ContactPhone></ContactPhone>
+          </PostalAddress> 
+        </ShipTo> 
+        <Charges Currency="USD">
+          <Item>28.13</Item>
+          <Tax>3.66</Tax>
+		  
+
+          <Total>31.79</Total>
+        </Charges>
+      </Item> 
+    
+
+</Items>
+</Request>

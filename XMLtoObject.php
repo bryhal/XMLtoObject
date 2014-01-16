@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @package OPSXMLtoObject
+ * XMLtoObject
  * @author Bryan Halstead Dec 18 2013
  * Based on the XML parser known as Sofee XML Parser class by Justin Wu <wenlong@php.net>
  * My modifications return an object from an XML file.
